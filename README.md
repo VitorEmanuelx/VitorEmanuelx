@@ -26,8 +26,10 @@ Building a strong foundation in fundamental programming concepts and mastering a
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitoremanuelx&show_icons=true&locale=en&layout=compact" alt="vitoremanuelx" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vitoremanuelx&theme=aura-dark)](https://git.io/streak-stats)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=aura-dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vitoremanuelx&theme=aura-dark)](https://git.io/streak-stats)  ![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitoremanuelx&show_icons=true&theme=aura-dark)
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitoremanuelx&show_icons=true&locale=en&layout=compact" alt="vitoremanuelx" /></p>
 
 
