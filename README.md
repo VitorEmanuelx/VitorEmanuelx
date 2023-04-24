@@ -18,7 +18,7 @@ Building a strong foundation in fundamental programming concepts and mastering a
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/viszmnz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="viszmnz" height="30" width="40" /></a>
+<a href="https://twitter.com/vitoremanuelz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vitoremanuelz" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/vitor-emanuel-53957126a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vitor-emanuel-53957126a/" height="30" width="40" /></a>
 <a href="https://instagram.com/vtrmnl.22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vtrmnl.22" height="30" width="40" /></a>
 </p>
