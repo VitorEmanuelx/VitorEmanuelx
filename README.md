@@ -1,8 +1,7 @@
-##Hi, my name is Vitor Emanuel  :wave:
+Hi, my name is Vitor Emanuel 
 
 
-
-
+![Vitor's github stats](https://github-readme-stats.vercel.app/api?username=vitoremanuelx)
 
 
 
