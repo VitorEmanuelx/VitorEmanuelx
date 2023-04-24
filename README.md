@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vitoremanuelx" alt="vitoremanuelx" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/viszmnz" target="blank"><img src="https://img.shields.io/twitter/follow/viszmnz?logo=twitter&style=for-the-badge" alt="viszmnz" /></a> </p>
+<p align="left"> <a href="https://twitter.com/vitoremanuelz" target="blank"><img src="https://img.shields.io/twitter/follow/vitoremanuelz?logo=twitter&style=for-the-badge" alt="vitoremanuelz" /></a> </p>
 
 - 🌱 I’m currently learning **Java**
 
