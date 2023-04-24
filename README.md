@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vvvitoremanuel@gmail.com**
 
-- 🔭 Current Focus **Learning as much as possible and gaining hands-on experience in Java and other programming languages /n
+- 🔭 Current Focus **Learning as much as possible and gaining hands-on experience in Java and other programming languages.
 Building a strong foundation in fundamental programming concepts and mastering a programming language to create basic projects.**
 
 - ⚡ Fun fact **The name "Java" was not chosen randomly. It was actually inspired by a brand of coffee that the language's creators, James Gosling and his colleagues, drank frequently while working on its development. Initially, the language was called "Oak", but it was later renamed to "Java". Additionally, many features and libraries in Java also have coffee-related names, such as "espresso", "latte", and "cappuccino".**
