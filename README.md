@@ -28,6 +28,6 @@ Building a strong foundation in fundamental programming concepts and mastering a
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitoremanuelx&show_icons=true&locale=en&layout=compact" alt="vitoremanuelx" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vitoremanuelx&show_icons=true&locale=en" alt="vitoremanuelx" /></p>     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vitoremanuelx&" alt="vitoremanuelx" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=vitoremanuelx&theme=aura-dark)](https://git.io/streak-stats)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=aura-dark)
 
 
